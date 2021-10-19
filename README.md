@@ -3,3 +3,4 @@
 # TEAM MEMBERS
 Asher Eskind
 Marcus Tamburro
+Alex Chang
