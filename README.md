@@ -4,3 +4,8 @@
 Asher Eskind
 Marcus Tamburro
 Alex Chang
+
+# Project Outline
+Target Variable:
+Response Variable(s):
+Webmapping Ideas:
