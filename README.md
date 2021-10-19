@@ -4,6 +4,7 @@
 1. Asher Eskind
 2. Marcus Tamburro
 3. Alex Chang
+4. Adam Strassburger
 
 # Project Outline
 1. Target Variable:
