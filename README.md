@@ -7,6 +7,6 @@
 4. Adam Strassburger
 
 # Project Outline
-1. Target Variable:
-2. Response Variable(s):
+1. Target Variable: Location of Meteorites
+2. Response Variable(s): Name, Date of Impact, Composition, Mass
 3. Webmapping Ideas:
