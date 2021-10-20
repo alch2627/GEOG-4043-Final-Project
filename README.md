@@ -10,3 +10,7 @@
 1. Target Variable: Location of Meteorites
 2. Response Variable(s): Name, Date of Impact, Composition, Mass
 3. Webmapping Ideas:
+  slider for year
+  select by location
+  filter by composition/mass
+  which meteor landed on your birthday?
